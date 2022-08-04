@@ -12,6 +12,7 @@
 html {
   font-size: 62.5%;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -634,7 +635,7 @@ strong {
 
 .address {
   /* margin-bottom: 1.2rem; */
-  color: #767676;
+  /* color: #767676; */
 }
 
 .footer-nav {
@@ -655,5 +656,5 @@ strong {
 
 .footer-link:hover,
 .footer-link:active {
-  color: #087f5b;
+  color: #555;
 }
